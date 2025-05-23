@@ -4,7 +4,7 @@
 A vulnerable Node.js demo application, based on the [Dreamers Lab tutorial](http://dreamerslab.com/blog/en/write-a-todo-list-with-express-and-mongodb/).
 
 
-Master of Data Science
+Deakin Uni
 
 ## Features
 
